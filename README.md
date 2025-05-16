@@ -1,5 +1,4 @@
-# RFisher
-Running Fisher test codes
+# RFisher: Running Fisher test codes and files
 
 # Codes
 RFisher.R: Code for file import and execution
