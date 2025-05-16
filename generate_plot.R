@@ -1,4 +1,4 @@
-generate_plot <- function(b1_file, b2_file, res_df, output_file = "venn_bar_combined.png") { 
+generate_plot <- function(b1_file, b2_file, res_df, output_file = "Plot.png") { 
   
   # Load data
   b1 <- read.csv(b1_file, stringsAsFactors = FALSE)
